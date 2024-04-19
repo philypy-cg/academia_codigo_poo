@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/04/13 14:48:33.901,=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 14:50:53.037,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit1.dfm=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/04/13 14:50:53.037,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit1.pas=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 14:51:10.700,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Project1.dproj=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/04/13 14:57:04.833,=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit2.pas</Transaction>
+    <Transaction>2024/04/13 15:02:35.115,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\pessoa.pas=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit2.pas</Transaction>
+    <Transaction>2024/04/13 23:13:12.641,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.dfm=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit1.dfm</Transaction>
+    <Transaction>2024/04/13 23:13:12.641,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.pas=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\Unit1.pas</Transaction>
+    <Transaction>2024/04/13 23:13:27.169,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.principal.principal=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.principal</Transaction>
+    <Transaction>2024/04/13 23:13:27.169,C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.principal.dfm=C:\Users\Philypy\Desktop\Projetos_Delphi\POO\view.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,15 @@
+unit pessoa;
+
+interface
+
+type
+  TPessoa = class
+    private
+      cpg: String;
+    public
+      Nome : String;
+  end;
+
+implementation
+
+end.
